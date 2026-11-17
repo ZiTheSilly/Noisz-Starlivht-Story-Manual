@@ -1,2 +1,4 @@
 # Noisz-Starlivht-Story-Manual
-This is a Manual Archipelago Randomizer implementation for the story mode in the rhythm x bullet hell game 'Noisz Starlivht'. This Manual is intended to be played on a completed save file. You start off with the Prologue (Chapter 0) and unlock the other chapters in a random order.  Locations are reading the chapters and beating the songs found in them. The Goal is to receive 50 out of 60 What Plushies and then complete Chapter F by beating the final two songs.
+This is a Manual Archipelago Randomizer implementation for the story mode in the rhythm x bullet hell game 'Noisz Starlivht'. This Manual is intended to be played on a completed save file, which includes having access to Chapter F. You start off with the Prologue (Chapter 0) and unlock the other chapters in a random order. Locations are reading the chapters and beating the songs found in them. The Goal is to receive 50 out of 60 What Plushies and then complete Chapter F by beating the final two songs.
+
+This Manual was partially inspired by the Noisz Starlivht Manual made by StarFilledSkye
